@@ -10,7 +10,7 @@
     "@sap-cloud-sdk/resilience": "3.12.0",
     "@sap/cds": "^7.9.2",
     "@sap/cds-dk": "7.9.2",
-    "@sap/hana-client": "^2.20.22",
+    "@sap/hana-client": "^2.21.28",
     "express": "^4",
     "notice": "^0.0.11"
   },
